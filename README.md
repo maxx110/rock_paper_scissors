@@ -1,1 +1,1 @@
-# rock_paper_scissors
+This code describes how rock paper and scissors works
